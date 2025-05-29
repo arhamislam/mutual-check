@@ -3,7 +3,7 @@ A tool to compare your Instagram followers and following lists to identify non-m
 
 ## Getting Started
 1. **Install Python**
-    - Go to [python.org](https://www.python.org/) and download the latest version of Python
+    - Go to the [official Python website](https://www.python.org/) and download Python 3.13.3
     - During installation, check **Add python.exe to PATH**, then select **Install Now** to get pip (Python's package installer)
     - After installation, verify that Python and pip are installed by running:
         ```bash
@@ -32,6 +32,7 @@ A tool to compare your Instagram followers and following lists to identify non-m
     - On your terminal, run `python main.py`
 
 ## Notes
+- Make sure Google Chrome is installed
 - Never share your `.env` file or commit it to version control
 - This project is for personal use only. Use responsibly and be aware that automating Instagram may violate their Terms of Service
 
